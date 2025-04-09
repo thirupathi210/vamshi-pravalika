@@ -321,8 +321,8 @@ extra small mobile 320px.
             }
             .section-title h2:before {
                 width: 60%;
-                height: 22%;
-                top: -13px;
+                height: 136%;
+                top: 10px;
                 left: 22%;
             }
             .section-title h2:after {

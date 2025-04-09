@@ -703,7 +703,7 @@ couple-area end
     width: 100%;
     height: 100%;
     position: absolute;
-    background: #5e9a8e;
+    /* background: #5e9a8e; */
     opacity: .8;
     left: 0;
     top: 0;
@@ -851,7 +851,9 @@ couple-area end
     position: relative;
     z-index: 1;
 }
-
+.timer{
+    background: url(../img/couple/g-1.jpg) no-repeat 50% / cover; 
+}
 
 .section-area:before {
     position: absolute;
@@ -1187,7 +1189,7 @@ welcome-area
     left: 0;
     width: 100%;
     height: 100%;
-    background: #649e93;
+    /* background: #649e93; */
     opacity: .9;
 }
 
