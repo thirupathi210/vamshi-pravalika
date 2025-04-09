@@ -846,10 +846,12 @@ couple-area end
 }
 
 .section-area {
+    background: url(../img/couple/ring.jfif) no-repeat 50% / cover;
     padding: 18px 0;
     position: relative;
     z-index: 1;
 }
+
 
 .section-area:before {
     position: absolute;
