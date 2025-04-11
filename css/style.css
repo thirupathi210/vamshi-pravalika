@@ -1489,7 +1489,7 @@ guest-area
 
 .guest-wrap {
     background: #1c2326;
-    padding: 70px;
+    padding: 30px;
 }
 
 
@@ -1622,7 +1622,7 @@ Gift-area
 footer-area
 ===============================*/
 .footer-area {
-    background: url(../img/couple/footer.jfif) no-repeat center center / cover;
+    background: url(../img/couple/pv-1.JPG) no-repeat center center / cover;
     padding: 100px 0;
     position: relative;
     z-index: 1;
@@ -2460,4 +2460,8 @@ h4.comment-title {
   }
   .play-button {
   cursor: pointer;
+}
+.wcard img{
+    height: 76vh;
+    width: 100%;
 }
