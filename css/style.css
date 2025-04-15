@@ -862,7 +862,7 @@ couple-area end
     top: 0px;
     width: 100%;
     height: 100%;
-    background: rgba(94, 154, 140, 0.88);
+    /* background: rgba(94, 154, 140, 0.88); */
     z-index: -1;
 }
 
@@ -1177,7 +1177,7 @@ welcome-area
 =================================*/
 
 .welcome-area {
-    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/couple/w-3.jpg) no-repeat center center / cover fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.81), rgba(100, 158, 147, 0.81)), transparent url(../img/couple/eg-13.jpeg) no-repeat center center / cover fixed;
     padding-top: 85px;
     padding-bottom: 95px;
 }
@@ -1736,7 +1736,7 @@ home-page2
 }
 
 .section-area {
-    background: url(../img/counter/3.jpg) no-repeat center center / cover;
+    background: url(../img/couple/ring.jfif) no-repeat center center / cover;
     padding: 18px 0;
     position: relative;
     z-index: 1;
