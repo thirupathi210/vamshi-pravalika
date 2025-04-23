@@ -576,6 +576,9 @@ couple-area
     margin-bottom: 50px;
     color: #649e93;
 }
+.contact-text{
+    font-size: 25px;
+}
 
 .section-title h2:before {
     position: absolute;
